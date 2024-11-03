@@ -1,0 +1,6 @@
+[16-Dec-2021 23:33:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u1355391/public_html/ujian-online/index.php on line 18
+[16-Dec-2021 23:33:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u1355391/public_html/ujian-online/index.php:1) in /home/u1355391/public_html/ujian-online/index.php on line 23
+[17-Dec-2021 00:03:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u1355391/public_html/ujian-online/index.php on line 18
+[17-Dec-2021 00:03:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u1355391/public_html/ujian-online/index.php:1) in /home/u1355391/public_html/ujian-online/index.php on line 23
+[17-Dec-2021 00:34:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/u1355391/public_html/ujian-online/index.php on line 18
+[17-Dec-2021 00:34:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/u1355391/public_html/ujian-online/index.php:1) in /home/u1355391/public_html/ujian-online/index.php on line 23
