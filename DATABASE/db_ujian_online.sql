@@ -289,7 +289,7 @@ CREATE TABLE `soal` (
   `kode_kelas` varchar(20) NOT NULL,
   `kode_mapel` varchar(20) NOT NULL,
   `jenis_ujian` varchar(30) NOT NULL,
-  `foto` text varchar(100) NOT NULL
+  `foto` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
