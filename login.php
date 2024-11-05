@@ -131,10 +131,10 @@ include'koneksi.php';
             <div class="text-muted text-center mt-2 mb-3"><small>LOGIN</small></div>
             <div class="btn-wrapper text-center">
               <a href="login_guru.php" style="height: 50px; font-size: 14pt;" class="btn btn-primary">
-                Guru
+                Teacher
               </a>
               <a href="login_siswa.php" style="height: 50px; font-size: 14pt;" class="btn btn-primary">
-                Siswa
+                Student
               </a>
             </div>
           </div>
