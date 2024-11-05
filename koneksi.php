@@ -1,6 +1,10 @@
 <?php 
 
-$koneksi = mysqli_connect("localhost","root","","ujianonline");
+// PRODUCTION
+$koneksi = mysqli_connect("localhost","u736687820_bagasapkuser","Bagasapk01_","u736687820_bagasapk");
+
+// DEVELOPMENT
+// $koneksi = mysqli_connect("localhost","root","","ujianonline");
 
 if (mysqli_connect_error()){
 	echo "koneksi ke database gagal" .mysqli_connect_error();
