@@ -78,7 +78,7 @@ echo "<script>alert('Data berhasil disimpan');window.location = 'buat_soal.php';
       <!-- Brand -->
       <div class="sidenav-header  align-items-center">
         <a class="navbar-brand" href="javascript:void(0)">
-          <img src="../assets/img/brand/blue.png" class="navbar-brand-img" alt="...">
+          <img src="../assets/img/brand/.YPTKAPIN.png" class="navbar-brand-img" alt="...">
         </a>
       </div>
       <div class="navbar-inner">
